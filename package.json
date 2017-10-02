@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "btoa": "~1.1.1",
-    "request": "2.69.x",
+    "request": "2.83.x",
     "querystring": "~0.2.0"
   }
 }
